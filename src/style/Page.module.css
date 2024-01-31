@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 206, 150);
+
+}
+.film_details{
+text-align:  center;
+margin: 0 auto;
+}
+.film{
+    margin: 0 5vw;
+    display: flex;
+    text-align: start;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(232, 159, 81);
+}
+.film h2{
+    text-align: center;
+}
+.film img{
+    width: 20vw;
+    margin-left: 5vw;
+    padding: 2vw 0;
+}
+.info span{
+    color: rgb(110, 74, 34);
+}
